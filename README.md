@@ -17,4 +17,7 @@ stage change: áres de pré-salvamento
 - git branch (consulta as branches que tem no repositorio e se aparecer em verde, é a que vc está no momento)
 
 
-
+# atualizar uma modificação
+- git commit -m "alguma coisa"
+- git push origin (nome da branch)
+- git status
