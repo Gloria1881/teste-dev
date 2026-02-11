@@ -18,6 +18,7 @@ stage change: áres de pré-salvamento
 
 
 # atualizar uma modificação
+- git add .
 - git commit -m "alguma coisa"
 - git push origin (nome da branch)
 - git status
