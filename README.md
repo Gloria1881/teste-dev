@@ -4,6 +4,7 @@ aula sobre git e github
 # Outras coisas
 changes: esses arquivos estão diferentes do arquivos que te enviou
 stage change: áres de pré-salvamento
+merge-change: tudo que dá conflito e precisa ser resolvido 
 
 
 # Git comandos
@@ -15,6 +16,7 @@ stage change: áres de pré-salvamento
 - git push (enviar o repositório local para o remoto)
 - git commit -m (salva os arquivos no repositorio local)
 - git branch (consulta as branches que tem no repositorio e se aparecer em verde, é a que vc está no momento)
+- git pull (pega algo do repositório remoto para o local)
 
 
 # Atualizar uma modificação
@@ -22,3 +24,5 @@ stage change: áres de pré-salvamento
 - git commit -m "alguma coisa"
 - git push origin (nome da branch)
 - git status
+
+Autora: Glória
