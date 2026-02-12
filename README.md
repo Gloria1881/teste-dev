@@ -1,12 +1,12 @@
 # teste-dev
 aula sobre git e github
 
-# outras coisas
+# Outras coisas
 changes: esses arquivos estão diferentes do arquivos que te enviou
 stage change: áres de pré-salvamento
 
 
-# git comandos
+# Git comandos
 - git clone (clona um repositório github para o pc)
 - git status (mostra o status do repositório)
 - git add nome-arquivo (incluir um único arquivo)
@@ -17,7 +17,7 @@ stage change: áres de pré-salvamento
 - git branch (consulta as branches que tem no repositorio e se aparecer em verde, é a que vc está no momento)
 
 
-# atualizar uma modificação
+# Atualizar uma modificação
 - git add .
 - git commit -m "alguma coisa"
 - git push origin (nome da branch)
