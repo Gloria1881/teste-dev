@@ -17,6 +17,7 @@ aula sobre git e github
 - git commit -m (salva os arquivos no repositorio local)
 - git branch (consulta as branches que tem no repositorio e se aparecer em verde, é a que vc está no momento)
 - git pull (pega algo do repositório remoto para o local)
+- git switch + nome da branch (muda pra branch que vc quer)
 
 
 # Atualizar uma modificação
